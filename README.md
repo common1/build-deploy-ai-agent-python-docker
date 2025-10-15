@@ -8,3 +8,7 @@
 docker run -it python:3.13.6-slim-bullseye
 ```
 
+## 02 Build your First Docker Container
+
+[https://www.youtube.com/watch?v=KC8HT0eWSGk&t=1317s]
+
