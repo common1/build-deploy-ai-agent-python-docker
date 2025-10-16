@@ -15,3 +15,7 @@ docker run -it python:3.13.6-slim-bullseye
 
 [https://www.youtube.com/watch?v=KC8HT0eWSGk&t=1317s]
 
+## 03  Publish on Docker Hub
+
+[https://www.youtube.com/watch?v=KC8HT0eWSGk&t=1646s]
+
