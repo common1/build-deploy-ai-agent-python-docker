@@ -63,3 +63,11 @@ docker compose down --remove-orphans
 docker compose up --build
 ```
 
+## 009 Moving the Dockerfile and Build Context
+
+[https://www.youtube.com/watch?v=KC8HT0eWSGk&t=3638s]
+
+```bash
+
+```
+

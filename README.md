@@ -40,3 +40,7 @@ docker run -it python:3.13.6-slim-bullseye
 
 [https://www.youtube.com/watch?v=KC8HT0eWSGk&t=3275s]
 
+## 009 Moving the Dockerfile and Build Context
+
+[https://www.youtube.com/watch?v=KC8HT0eWSGk&t=3638s]
+
