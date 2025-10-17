@@ -32,3 +32,7 @@ docker run -it python:3.13.6-slim-bullseye
 
 [https://www.youtube.com/watch?v=KC8HT0eWSGk&t=2726s]
 
+## 007 Configure Dockerfile to Render HTML
+
+[https://www.youtube.com/watch?v=KC8HT0eWSGk&t=2869s]
+
