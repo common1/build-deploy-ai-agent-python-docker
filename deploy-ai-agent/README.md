@@ -53,6 +53,13 @@ docker compose run app /bin/bash
 docker compose down
 docker compose up --build
 docker compose down --remove-orphans
-
-
 ```
+
+## 008 Copy Local Files to Docker Container
+
+[https://www.youtube.com/watch?v=KC8HT0eWSGk&t=3275s]
+
+```bash
+docker compose up --build
+```
+
