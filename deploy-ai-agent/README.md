@@ -87,3 +87,10 @@ docker compose run backend /bin/bash
 docker compose up --build
 ```
 
+## 012 Docker Compose Watch Mode
+
+[https://www.youtube.com/watch?v=KC8HT0eWSGk&t=5011s]
+
+```bash
+docker compose up --watch
+```

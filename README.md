@@ -52,3 +52,7 @@ docker run -it python:3.13.6-slim-bullseye
 
 [https://www.youtube.com/watch?v=KC8HT0eWSGk&t=4131s]
 
+## 012 Docker Compose Watch Mode
+
+[https://www.youtube.com/watch?v=KC8HT0eWSGk&t=5011s]
+
