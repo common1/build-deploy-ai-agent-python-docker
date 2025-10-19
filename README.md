@@ -48,3 +48,7 @@ docker run -it python:3.13.6-slim-bullseye
 
 [https://www.youtube.com/watch?v=KC8HT0eWSGk&t=3859s]
 
+## 011 Hello World with Docker and FastAPI
+
+[https://www.youtube.com/watch?v=KC8HT0eWSGk&t=4131s]
+
