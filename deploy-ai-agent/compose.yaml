@@ -1,5 +1,5 @@
 services:
-  static_html:
+  app:
     # image: python:3.13.4-slim-bullseye
     build:
       context: ./static_html
@@ -8,3 +8,5 @@ services:
       - 8000:8000
       - 3000:8000
     command: python -m http.server 8000
+    volumes:
+      - ./static_html/src:/app

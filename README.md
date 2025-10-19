@@ -44,3 +44,7 @@ docker run -it python:3.13.6-slim-bullseye
 
 [https://www.youtube.com/watch?v=KC8HT0eWSGk&t=3638s]
 
+## 010 Volumes for Containers during Development
+
+[https://www.youtube.com/watch?v=KC8HT0eWSGk&t=3859s]
+
