@@ -4,5 +4,5 @@ app = FastAPI()
 
 @app.get("/")
 def read_index():
-    return {"hello": "world again too"}
+    return {"hello": "world again"}
 

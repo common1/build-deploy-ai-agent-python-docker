@@ -95,3 +95,14 @@ docker compose up --build
 docker compose up --watch
 docker compose run backend /bin/bash
 ```
+
+## 013 Docker Ignore File and Volumes
+
+[https://www.youtube.com/watch?v=KC8HT0eWSGk&t=5295s]
+
+```bash
+ docker compose down --remove-orphans
+ docker compose up --watch --build
+
+```
+
