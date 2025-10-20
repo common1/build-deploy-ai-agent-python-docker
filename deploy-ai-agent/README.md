@@ -93,4 +93,5 @@ docker compose up --build
 
 ```bash
 docker compose up --watch
+docker compose run backend /bin/bash
 ```
