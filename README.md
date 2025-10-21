@@ -60,3 +60,7 @@ docker run -it python:3.13.6-slim-bullseye
 
 [https://www.youtube.com/watch?v=KC8HT0eWSGk&t=5295s]
 
+## 014 Injecting Passwords and Secrets at Runtime
+
+[https://www.youtube.com/watch?v=KC8HT0eWSGk&t=5719s]
+

@@ -105,4 +105,7 @@ docker compose run backend /bin/bash
  docker compose up --watch --build
 
 ```
+## 014 Injecting Passwords and Secrets at Runtime
+
+[https://www.youtube.com/watch?v=KC8HT0eWSGk&t=5719s]
 
